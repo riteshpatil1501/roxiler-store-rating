@@ -352,8 +352,8 @@ The application has been manually tested for:
 The live deployment URL will be added here after deployment.
 
 ```text
-Frontend: <LIVE_FRONTEND_URL>
-Backend: <LIVE_BACKEND_URL>
+Frontend: <https://roxiler-store-rating-weld.vercel.app>
+Backend: <https://roxiler-store-rating-5au3.onrender.com>
 ```
 
 ## Repository
@@ -361,7 +361,7 @@ Backend: <LIVE_BACKEND_URL>
 GitHub repository:
 
 ```text
-<YOUR_GITHUB_REPOSITORY_URL>
+<https://github.com/riteshpatil1501/roxiler-store-rating.git>
 ```
 
 ## Author
